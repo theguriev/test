@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/schemas/mongoose/client.js"],"names":["name","String","email","phone","providers"],"mappings":";;;;;kBAAe;AACbA,QAAMC,MADO;AAEbC,SAAOD,MAFM;AAGbE,SAAOF,MAHM;AAIbG,aAAW,CAACH,MAAD;AAJE,C","file":"client.js","sourcesContent":["export default {\n  name: String,\n  email: String,\n  phone: String,\n  providers: [String]\n};"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/schemas/mongoose/provider.js"],"names":["name","String"],"mappings":";;;;;kBAAe;AACbA,QAAMC;AADO,C","file":"provider.js","sourcesContent":["export default {\n  name: String\n};"]}
